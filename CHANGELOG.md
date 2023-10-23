@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.4](https://github.com/eslint/eslint-visitor-keys/compare/v3.4.3...v3.4.4) (2023-10-23)
+
+
+### Chores
+
+* run tests in Node.js 21 ([#61](https://github.com/eslint/eslint-visitor-keys/issues/61)) ([b23bfb7](https://github.com/eslint/eslint-visitor-keys/commit/b23bfb7f938d6559dfff8f02203c866a2fb26618))
+
 ## [3.4.3](https://github.com/eslint/eslint-visitor-keys/compare/v3.4.2...v3.4.3) (2023-08-08)
 
 
